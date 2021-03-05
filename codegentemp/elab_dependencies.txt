@@ -1,0 +1,2 @@
+C:\Users\Labeo\Documents\PSoC Creator\CMSIS\CMSIS.cydsn\TopDesign\TopDesign.cysch
+C:\Users\Labeo\Documents\PSoC Creator\CMSIS\CMSIS.cydsn\CMSIS.cydwr
